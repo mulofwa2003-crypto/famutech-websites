@@ -1,0 +1,60 @@
+{
+  "settings": {
+    "businessName": "FAMUTECH",
+    "tagline": "Electrical & Solar Solutions",
+    "location": "Lusaka, Zambia",
+    "whatsapp": "260777378959",
+    "phone": "260777378959"
+  },
+  "packages": [
+    {
+      "id": 1,
+      "name": "3.2kVA Solar Package",
+      "price": "K45,000",
+      "details": "Hybrid inverter, solar panels, batteries and professional installation."
+    },
+    {
+      "id": 2,
+      "name": "5kVA Solar Package",
+      "price": "K75,000",
+      "details": "Complete hybrid solar solution for a medium home or business."
+    },
+    {
+      "id": 3,
+      "name": "6.2kVA Solar Package",
+      "price": "K95,000",
+      "details": "High-capacity hybrid system with installation and commissioning."
+    }
+  ],
+  "services": [
+    "Solar System Installation",
+    "Electrical Wiring",
+    "Inverter Repair & Troubleshooting",
+    "Solar Fault Finding",
+    "Electrical Fault Finding",
+    "Solar System Maintenance"
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Residential Solar Installation",
+      "text": "Professional solar installation and system commissioning.",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "title": "Electrical Installation",
+      "text": "Safe and professional electrical wiring solutions.",
+      "image": ""
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "FAMUTECH Customer",
+      "text": "Professional service and excellent workmanship."
+    }
+  ],
+  "news": [],
+  "quotes": []
+}
